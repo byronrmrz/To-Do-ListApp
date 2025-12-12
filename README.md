@@ -1,10 +1,10 @@
-# 📱 To-Do List App (Proyecto Final)
+#  To-Do List App (Proyecto Final)
 
 Aplicación móvil híbrida para la gestión de tareas, desarrollada como proyecto final del curso de Introducción a Aplicaciones Móviles.
 
 Esta herramienta permite a los usuarios organizar sus actividades diarias mediante una interfaz moderna, intuitiva y visualmente atractiva, clasificando tareas por categorías (Trabajo, Casa, Negocios).
 
-## ✨ Características Principales
+##  Características Principales
 
 * **Dashboard Visual:** Resumen en tiempo real de tareas pendientes y completadas con gráficas y contadores.
 * **Gestión de Tareas (CRUD):** Crear, Leer, Actualizar (Completar) y Eliminar tareas.
@@ -12,7 +12,7 @@ Esta herramienta permite a los usuarios organizar sus actividades diarias median
 * **Persistencia de Datos:** Almacenamiento local utilizando `AsyncStorage` (los datos no se pierden al cerrar la app).
 * **Diseño Premium:** Interfaz de usuario (UI) mejorada con degradados, ilustraciones 3D y estados vacíos amigables.
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 * **Core:** React Native + TypeScript
 * **Framework:** Expo (Managed Workflow)
@@ -21,13 +21,8 @@ Esta herramienta permite a los usuarios organizar sus actividades diarias median
 * **Estilos:** StyleSheet + Expo Linear Gradient
 * **Iconos:** Ionicons (@expo/vector-icons)
 
-## 📸 Capturas de Pantalla
 
-| Inicio (Dashboard) | Nueva Tarea | Lista Vacía | Lista de Tareas |
-|:---:|:---:|:---:|:---:|
-| <img src="./assets/images/hero.png" width="200" /> | *[Agrega tu captura aquí]* | <img src="./assets/images/empty-state.png" width="200" /> | *[Agrega tu captura aquí]* |
-
-## 🚀 Instalación y Ejecución
+##  Instalación y Ejecución
 
 Si deseas correr este proyecto localmente:
 
@@ -50,7 +45,7 @@ Si deseas correr este proyecto localmente:
 ## 📱 Descarga (APK)
 
 Puedes probar la aplicación en Android descargando el ejecutable desde el siguiente enlace (generado con EAS Build):
-* **[Pegar aquí tu Link de Expo/EAS]**
+https://expo.dev/accounts/byronrmrz/projects/ToDoListApp/builds/14d38080-ba98-4052-adfe-22207f3ed77b<img width="442" height="65" alt="image" src="https://github.com/user-attachments/assets/08441491-1976-4a3e-aceb-53d68605edf5" />
 
 ---
 **Desarrollado por:** [Tu Nombre Completo]
