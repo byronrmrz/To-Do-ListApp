@@ -49,4 +49,4 @@ Puedes probar la aplicación en Android descargando el ejecutable desde el sigui
 https://expo.dev/accounts/byronrmrz/projects/ToDoListApp/builds/14d38080-ba98-4052-adfe-22207f3ed77b
 
 ---
-**Desarrollado por:** [Tu Nombre Completo]
+**Desarrollado por:** Byron Ramírez
