@@ -45,7 +45,8 @@ Si deseas correr este proyecto localmente:
 ## 📱 Descarga (APK)
 
 Puedes probar la aplicación en Android descargando el ejecutable desde el siguiente enlace (generado con EAS Build):
-https://expo.dev/accounts/byronrmrz/projects/ToDoListApp/builds/14d38080-ba98-4052-adfe-22207f3ed77b<img width="442" height="65" alt="image" src="https://github.com/user-attachments/assets/08441491-1976-4a3e-aceb-53d68605edf5" />
+
+https://expo.dev/accounts/byronrmrz/projects/ToDoListApp/builds/14d38080-ba98-4052-adfe-22207f3ed77b
 
 ---
 **Desarrollado por:** [Tu Nombre Completo]
